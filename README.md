@@ -1,2 +1,2 @@
 # Ethics_and_Inclusivity
-central Tree of Sex repository
+Materials related to Ethics and Inclusivity within the ToS
